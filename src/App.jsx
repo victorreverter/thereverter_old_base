@@ -18,6 +18,7 @@ import { Routes, Route } from "react-router-dom"
 import Home from "./Home"
 import About from "./About"
 import Contact from "./Contact"
+import ContactCompo from "./components/ContactCompo"
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
         <Route path="/" element={ <Home/> } />
         <Route path="about" element={ <About/> } />
         <Route path="contact" element={ <Contact/> } />
+        <Route path="contactCompo" element={ <ContactCompo/> } />
       </Routes>
     </div>
   )

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. ...",
+    "date": "2023-01-01",
+    "author": "John Doe"
+  },
+  {
+    "id": 2,
+    "title": "React Hooks",
+    "content": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ...",
+    "date": "2023-02-15",
+    "author": "Jane Smith"
+  }
+]
